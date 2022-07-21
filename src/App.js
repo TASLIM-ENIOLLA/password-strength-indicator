@@ -506,59 +506,6 @@ class App extends Component{
                         </div>
                     </div>
                 </main>
-                <main className="bg-dark text-white py-5 px-3" data-targeted = "purpose-section">
-                    <div className="px-2 text-c">
-                        <p className="bold thick-border-bottom d-inline-block mx-auto fa-2x my-2 text-capitalize text-c">
-                            Project Objectives
-                        </p>
-                    </div>
-                    <div className="my-4 container">
-                        <div className="mb-4">
-                            <div className="mt-1">
-                                <p>
-                                    Passwords are a vital component of system security. The big vulnerability of passwords lie in their nature. Research and analysis of password strength recognition using machine learning classification algorithms:
-                                </p>
-                                <ul>
-                                    <li>
-                                        Model password strength prediction, strong or weak password test.
-                                    </li>
-                                    <li>
-                                        To evaluate the strength of password combinations, user can use the immediate visual feedback to increase the strength of their passwords, with a special emphasis on breaking the common umhealthy habits of poor password construction.
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </main>
-                <main className="bg-white text-dark py-5 px-3" data-targeted = "owner-section">
-                    <div className="px-2 text-c">
-                        <p className="bold thick-border-bottom d-inline-block mx-auto fa-2x my-2 text-capitalize text-c">
-                            Ownership
-                        </p>
-                    </div>
-                    <div className="my-4 container">
-                        <div className="mb-4 border-bottom">
-                            <div className="text-capitalize bold letter-spacing-1">name:</div>
-                            <div className="text-capitalize mt-1">Ahmed Mariam Damilola</div>
-                        </div>
-                        <div className="mb-4 border-bottom">
-                            <div className="text-capitalize bold letter-spacing-1">matric number:</div>
-                            <div className="text-capitalize mt-1">17/52HL020</div>
-                        </div>
-                        <div className="mb-4 border-bottom">
-                            <div className="text-capitalize bold letter-spacing-1">Supervisor:</div>
-                            <div className="text-capitalize mt-1">Dr. A. M. Adeshina</div>
-                        </div>
-                        <div className="mb-4 border-bottom">
-                            <div className="text-capitalize bold letter-spacing-1">Department:</div>
-                            <div className="text-capitalize mt-1">information & communication science</div>
-                        </div>
-                        <div className="mb-4 border-bottom">
-                            <div className="text-capitalize bold letter-spacing-1">Institution:</div>
-                            <div className="text-capitalize mt-1">university of ilorin</div>
-                        </div>
-                    </div>
-                </main>
                 <footer className="bg-dark text-white py-5 px-3">
                     <div className="px-2">
                         <p className="bold fa-2x my-2 text-capitalize text-c">
